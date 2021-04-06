@@ -2,7 +2,7 @@
 This repo contains a the code for the React Testing Library video.
 
 # Check the full explanation videos (GR)
-(Pending...)
+[![Testing Hooks με React Testing Library](https://img.youtube.com/vi/PN3N9CnjUCQ/0.jpg)](https://youtu.be/PN3N9CnjUCQ) 
 
 # How to
 Run application
